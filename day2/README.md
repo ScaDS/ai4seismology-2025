@@ -7,7 +7,7 @@
 *Physics Informed Neural Networks* 
 
 14:00-14:45 | **Dr. Martijn van den Ende** \
-*Graph Neural Networks* 
+*Graph Neural Networks* {Download}`slides <./slides/2.3_graphs.pdf>`
 
 14:45-15:30 | **Prof. Dr. Andrew Curtis** \
 *Advanced methods in probabilistic geophysical inversion* 
