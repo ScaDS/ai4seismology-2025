@@ -1,0 +1,26 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+
+  - caption: Lectures
+    chapters:
+      - file: day1/README.md
+      - file: day2/README.md
+      - file: day3/README.md
+      - file: day4/README.md
+  
+  - caption: Tutorials
+    chapters:
+      - file: day0/preparation.md
+      # - file: day2/transformers.md
+      # - file: day2/PINNS.md
+      # - file: day2/unsupervised.md
+      # - file: day3/bring-your-own-data.md
+      # - file: day4/scaling-workflows.md
+
+  - caption: Other information
+    chapters:
+      - file: day0/locations.md

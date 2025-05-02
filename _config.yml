@@ -1,0 +1,31 @@
+#######################################################################################
+# A default configuration that will be loaded for all jupyter books
+# See the documentation for help and more options: 
+# https://jupyterbook.org/customize/config.html
+
+#######################################################################################
+# Book settings
+title                       : AI4Seismology Training School @ ScaDS.AI, May 2025
+author                      : Josefine Umlauft, Jannes Münchmeyer, Martijn van den Ende, Marius Isken, Robert Haase
+copyright                   : "2025"
+logo                        : scads_logo.png
+
+# Force re-execution of notebooks on each build.
+# See https://jupyterbook.org/content/execute.html
+execute:
+  execute_notebooks: 'off'
+
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/ScaDS/ai4seismology-2025
+  path_to_book: .  # Optional path to your book, relative to the repository root
+  branch: main  # Which branch of the repository should be used when creating links (optional)
+
+html:
+  use_issues_button: true
+  use_repository_button: true
+
+sphinx:
+  config:
+    html_show_copyright: true
+    html_last_updated_fmt: '%Y-%m-%d'
