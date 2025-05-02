@@ -16,7 +16,7 @@ The HPC cluster is now accessible from: https://jupyterhub.hpc.tu-dresden.de (pr
 2. Click the "Advanced" button
 3. Select the cluster "barnard" and set "CPUs per task", "Memory per CPU", and "Runtime" according to the tutorial instructions
 4. After being assigned a spot on the cluster, you will be greeted by a Jupyter Lab environment. Open a terminal and copy the tutorial environment into your home directory: `cp -r /data/horse/ws/s4122485-ai4seismology .` 
-5. Close the terminal. In the file browser on the left side, click the refresh icon and open `s4122485-ai4seismology_dev/HPCSetup.ipynb` 
+5. Close the terminal. In the file browser on the left side, click the refresh icon and open `s4122485-ai4seismology/HPCSetup.ipynb` 
 6. When asked to "Select Kernel", leave the default Python 3 kernel and click "Select".
 7. Run the first cell in the notebook to install the `ai4seis_kernel`, which contains the Python environment needed to run the tutorial notebooks. If everything went well (no errors), you can close the `HPCSetup.ipynb` notebook.
 
