@@ -84,7 +84,7 @@ This training school is designed for graduate students, postdoctoral researchers
               Dr. René Steinmann
               Dr. Josefine Umlauft
               Applications VI: Environmental signals (mass movements, 
-              footfalls and vocalizations from wildfline, tree sway)
+              footfalls and vocalizations from wildlife, tree sway)
 
 15:30-16:00   30-min break
 
