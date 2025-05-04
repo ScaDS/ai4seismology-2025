@@ -15,7 +15,8 @@ parts:
   - caption: Tutorials
     chapters:
       - file: day0/preparation.md
-      # - file: day2/transformers.md
+      - file: day2/transformers/day2.1_transformer-tsa_1.ipynb
+      - file: day2/transformers/day2.1_transformer-tsa_2.ipynb
       # - file: day2/PINNS.md
       # - file: day2/unsupervised.md
       # - file: day3/bring-your-own-data.md
