@@ -15,3 +15,4 @@
 14:45-15:30 | **Prof Dr. Marine Denolle**, **Dr. René Steinmann**, **Dr. Josefine Umlauft** \
 *Environmental signals (mass movements, footfalls and vocalizations from wildlife, tree sway)* 
 
+{Download} <Slides about Tree Sway `./slides/ApplicationsVI_EnvironmentalSignals_TreeSway.pdf`>
