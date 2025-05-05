@@ -15,8 +15,8 @@ This training school is designed for graduate students, postdoctoral researchers
 
 15:30-16:00   30-min break
 
-16:00-17:30   Dr. Robert Haase
-              Basics in ML (supervised, unsupervised, deep learning)
+16:00-17:30   Dr. Robert Haase & Maximilian Joas
+              Introduction to Machine Learning (supervised, unsupervised, deep learning)
 
 17:30-18:00   Technical HPC set-up
 
