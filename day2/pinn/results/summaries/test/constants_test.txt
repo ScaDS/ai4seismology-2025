@@ -1,0 +1,28 @@
+run: test
+domain: <class 'fbpinns.domains.RectangularDomainND'>
+domain_init_kwargs: {'xmin': array([0.]), 'xmax': array([1.])}
+problem: <class '__main__.HarmonicOscillator1D'>
+problem_init_kwargs: {'d': 2, 'w0': 80}
+decomposition: <class 'fbpinns.decompositions.RectangularDecompositionND'>
+decomposition_init_kwargs: {'subdomain_xs': [array([0.        , 0.07142857, 0.14285714, 0.21428571, 0.28571429,
+       0.35714286, 0.42857143, 0.5       , 0.57142857, 0.64285714,
+       0.71428571, 0.78571429, 0.85714286, 0.92857143, 1.        ])], 'subdomain_ws': [array([0.15, 0.15, 0.15, 0.15, 0.15, 0.15, 0.15, 0.15, 0.15, 0.15, 0.15,
+       0.15, 0.15, 0.15, 0.15])], 'unnorm': (0.0, 1.0)}
+network: <class 'fbpinns.networks.FCN'>
+network_init_kwargs: {'layer_sizes': [1, 32, 1]}
+n_steps: 20000
+scheduler: <class 'fbpinns.schedulers.AllActiveSchedulerND'>
+scheduler_kwargs: {}
+ns: ((200,),)
+n_test: (500,)
+sampler: grid
+optimiser: <function adam at 0x136170430>
+optimiser_kwargs: {'learning_rate': 0.001}
+seed: 0
+summary_freq: 1000
+test_freq: 1000
+model_save_freq: 10000
+show_figures: True
+save_figures: False
+clear_output: True
+hostname: pickwick-iii.local
