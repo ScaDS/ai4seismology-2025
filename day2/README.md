@@ -10,7 +10,7 @@
 *Graph Neural Networks* {Download}`slides <./slides/2.3_graphs.pdf>`
 
 14:45-15:30 | **Prof. Dr. Andrew Curtis** \
-*Advanced methods in probabilistic geophysical inversion* 
+*Advanced methods in probabilistic geophysical inversion* {Download}`slides <./slides/2.4.Curtis_AI4Seismology_Uncertainty_INNs_NFs_clean.pdf>`
 
 16:00-16:45 | **Dr. René Steinmann** \
 *Unsupervised Learning* 
