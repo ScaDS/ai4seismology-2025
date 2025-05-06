@@ -1,7 +1,7 @@
 # Day 3: Applications
 
 08:30-10:00 | **Prof. Dr. Marine Denolle** \
-*Earthquake seismology, phase picking, first-motion polarities*
+*Earthquake seismology, phase picking*{Download}`slides <./slides/ML_AI4Seismo_Workshop_2025_DenolleNi.pdf>`
 
 10:30-11:15 | **Dr. Maria Tsekhmistrenko** \
 *UMAP* 
