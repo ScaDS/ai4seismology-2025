@@ -1,6 +1,6 @@
 # Day 2: Theory
 
-08:30-09:15 | **Matthias Täschner** \
+08:30-10:00 | **Matthias Täschner** \
 *Transformers for time series ML* {Download}`slides <./slides/2.1_transformers-for-tsa.pdf>`
 
 10:30-11:15 | **Prof. Dr. Tarje Nissen-Meyer** \
