@@ -19,7 +19,10 @@ parts:
       - file: day2/transformers/day2.1_transformer-tsa_2.ipynb
       # - file: day2/PINNS.md
       # - file: day2/unsupervised.md
-      # - file: day3/bring-your-own-data.md
+      - file: day3/earthquake_seismology/day3.1_curated_pnw_dataset_seisbench.ipynb
+      - file: day3/earthquake_seismology/day3.2_curated_pnw_dataset_seisbench.ipynb
+      - file: day3/earthquake_seismology/day3.3_bring_your_own_seismogram_example.ipynb
+      - file: day3/earthquake_seismology/day3.4_classification.ipynb
       # - file: day4/scaling-workflows.md
 
   - caption: Other information
