@@ -7,6 +7,6 @@
 *Scaling workflows to Big Data - Tutorial*
 
 14:00-15:30 | **Dr. Robert Haase** \
-*Data & Software Management, Open Source* {Download}`slides <./slides/4.2_RDM_OpenScience.pdf>`
+*Data & Software Management, Open Source* {Download}`slides <./slides/4.3_RDM_OpenScience.pdf>` {Download}`PPTx <https://doi.org/10.5281/zenodo.15363083>`
 
 
