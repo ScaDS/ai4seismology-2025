@@ -1,6 +1,6 @@
 # Day 2: Theory
 
-08:30-09:15 | **Matthias Täschner** \
+08:30-10:00 | **Matthias Täschner** \
 *Transformers for time series ML* {Download}`slides <./slides/2.1_transformers-for-tsa.pdf>`
 
 10:30-11:15 | **Prof. Dr. Tarje Nissen-Meyer** \
@@ -10,7 +10,7 @@
 *Graph Neural Networks* {Download}`slides <./slides/2.3_graphs.pdf>`
 
 14:45-15:30 | **Prof. Dr. Andrew Curtis** \
-*Advanced methods in probabilistic geophysical inversion* 
+*Advanced methods in probabilistic geophysical inversion* {Download}`slides <./slides/2.4.Curtis_AI4Seismology_Uncertainty_INNs_NFs_clean.pdf>`
 
 16:00-16:45 | **Dr. René Steinmann** \
 *Unsupervised Learning* 
