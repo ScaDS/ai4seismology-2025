@@ -15,12 +15,35 @@ parts:
   - caption: Tutorials
     chapters:
       - file: day0/preparation.md
-      - file: day2/transformers/day2.1_transformer-tsa_1.ipynb
-      - file: day2/transformers/day2.1_transformer-tsa_2.ipynb
-      # - file: day2/PINNS.md
-      # - file: day2/unsupervised.md
-      # - file: day3/bring-your-own-data.md
-      # - file: day4/scaling-workflows.md
+      - file: day2/tutorials/transformers/README.md
+        sections:
+        - file: day2/tutorials/transformers/day2.1_transformer-tsa_1.ipynb
+        - file: day2/tutorials/transformers/day2.1_transformer-tsa_2.ipynb
+      - file: day2/tutorials/pinns/README.md
+        sections:
+        - file: day2/tutorials/pinns/Harmonic_oscillator_PINN.ipynb
+        - file: day2/tutorials/pinns/Harmonic_oscillator_FBPINN.ipynb
+      - file: day2/tutorials/unsupervised/README.md
+        sections:
+        - file: day2/tutorials/unsupervised/notebooks/01_get_data.ipynb
+        - file: day2/tutorials/unsupervised/notebooks/02_generate_features.ipynb
+        - file: day2/tutorials/unsupervised/notebooks/03_reduce_dimensions_pca.ipynb
+        - file: day2/tutorials/unsupervised/notebooks/04_reduce_dimensions_umap.ipynb
+        - file: day2/tutorials/unsupervised/notebooks/05_cluster_analysis.ipynb
+      - file: day3/tutorials/eq_catalogs/README.md
+        sections:
+        - file: day3/tutorials/eq_catalogs/1_curated_pnw_dataset_seisbench.ipynb
+        - file: day3/tutorials/eq_catalogs/2_make_unet_annotated.ipynb
+        - file: day3/tutorials/eq_catalogs/3_bring_your_own_seismogram_example.ipynb
+        - file: day3/tutorials/eq_catalogs/4_classification.ipynb
+      - file: day3/tutorials/umap/README.md
+        sections:
+        - file: day3/tutorials/umap/notebooks/ML_UrbanSound8K.ipynb
+      - file: day4/tutorials/README.md
+        sections:
+        - file: day4/tutorials/hpc_data/timeseries_hpc_data_exercise.ipynb
+        - file: day4/tutorials/nyc_data/NYC-Taxi-Trips-Skeleton.ipynb
+        - file: day4/tutorials/nyc_data/NYC-Taxi-Trips-Solution.ipynb
 
   - caption: Other information
     chapters:
