@@ -1,0 +1,17 @@
+name: tsa-transformer-env
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.12
+  - pip
+  - notebook
+  - jupyterlab
+  - ipywidgets
+  - pandas
+  - matplotlib
+  - seaborn
+  - statsmodels=0.14.4
+  - u8darts-all=0.33.0
+  - autogluon=1.2.0
+  - optuna=4.3.0
